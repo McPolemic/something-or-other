@@ -1,0 +1,82 @@
+# Profile
+Ambitious software engineer with over fifteen years of experience in software development, operations, testing, and general IT services. Experienced in the analysis, development, testing, troubleshooting, and maintenance of complex system. Able to adapt quickly to changing organizational needs, work within client’s requirements, and learn new technologies to anticipate and deliver results.
+
+# Skills
+## Languages
+Ruby, Elixir, JavaScript, Python, Clojure, Go, C
+## Frameworks
+Rails, Phoenix, React, Vue.js, Angular, Flask, Django
+## Tools
+Git, Mercurial, Ansible, Chef, Terraform, Docker
+
+# Experience
+## Senior Software Engineer, Firehydrant — 2023-2024
+* Mentored junior developers in writing safer, more readable, more performant code.
+* Worked across three teams to upgrade Ruby and accompanying gems
+* This included upgrading and rolling out new Docker base images, regression and performance testing, and * documenting new Ruby features available to developers as well as the process for testing version changes.
+* Designed channel syncing engine to allow for more intelligently choosing Slack channels.
+* Participated in product walkthroughs to identify and resolve UX issues, improving user experience.
+* Advocated for agile improvements, increasing development velocity and reliability.
+
+## Senior Software Engineer, Bold Penguin — 2020-2023
+* Helped document, configure, and optimize a custom rules engine to allow easier management of business rules.
+* Presented on options to improve performance on business rules to help scale the service to more users.
+* Helped standardize and automate onboarding paperwork for new insurance carriers to integrate with our platform, empowering Business Analysts to write business rules for each new API.
+* Paired with and mentored business analysts and developers.
+* Participated in hiring and onboarding new developers.
+* Integrated three new insurance carrier APIs on our platform, as well as maintained numerous others, using Ruby/Rails and Angular.
+* Ran a biweekly meet-up on maintainability and testing strategies.
+
+## Double agent, Test Double — 2016-2020
+### PGA of America — 2019-2020
+* Built a availability/lesson scheduling backend in Ruby/Rails, GraphQL, and AWS ECS/Aurora for PGA coaches and students.
+* Collaborated on creating a cross-platform PGA coaching app using Dart and Flutter.
+* Helped implement "Find a Golf Coach" search using React, Next.JS, and Algolia.
+
+### GitHub — 2018-2019
+* Expanded analytics platform to assess user interactions.
+* Built out better support for adding team members using Ruby/Rails and web components.
+* Worked with multiple teams to increase engagement and upsells of subscription plans.
+* Assisted with deployment coordination and troubleshooting.
+* Helped with planning and team building off-sites.
+
+### Enbala (Smart energy grids) - 2017-2018
+* Built out a new product in Phoenix/Elixir and Elm from an existing legacy demo.
+* Lead troubleshooting with external clients demoing new products.
+* Worked with on-site team to establish good practices for scaling large, near real-time Elixir applications.
+* Consulted on team practices and improving communication.
+* Improved deployment process using Terraform.
+* Assisted with hiring and interviewing.
+
+### Roostify (user-friendly mortgage applications) — 2016-2017
+* Worked with Roostify and a large client to gather requirements and build an interface between the two using Rails 5.
+* Assisted Roostify with production troubleshooting.
+* Created a Go daemon to integrate a message bus with Roostify's existing servers.
+* Helped roll out automated testing and deployment via Ansible to AWS.
+* Architected public-key encryption with rotation in order to transfer files between banks and Roostify.
+* Mentored and on-boarded several developers.
+
+## Developer, Purdue Federal Credit Union — 2013-2016
+* Wrote a REST wrapper API for ten diverse sources of information (e.g. banking core, bill payments, automatic check deposits) in Python/Flask.
+* Automated multiple statement processes, taking them from a three-day manual process to a two hour automated process using Java and JRuby.
+* Automated processing of year-end tax statements using Clojure.
+* Aided in setting up Logstash and the full ELK stack to centralize logging across over 200 machines.
+* Set up Riemann for alerting on traceback, job failures, and resource exhaustion.
+* Administered 45 Linux boxes, installing upgrades, security updates, and securing machines using Ansible.
+* Set up a web app to automate activities across departments using Ruby and Sinatra.
+* Found, reported, and helped mitigate a number of security vulnerabilities in third-party vendors' software.
+* On-boarded and mentored new employees in internal technologies as well as training developers in Python and Ruby.
+
+## Service information developer, Hewlett Packard — 2008-2013
+* Developed and maintained C-based applications on Sun Solaris OS and HP-UX for interChange, HP’s Medicaid solution.
+* Designed and developed a new subsystem for interChange.
+* Integrated and interoperable with five pre-existing subsystems.
+* Implemented using existing frameworks, C, Java, and SOAP web services.
+* Architected and created a Python application to aid in Claims testing and build automation.
+* Debugged and reviewed Java code to help in the interoperation between subsystems.
+* Trained and mentored numerous new HP developers.
+
+## System Administrator, Beacon Academy — 2007-2010
+* Created a web presence for advertising and general information about the school.
+* Required a CMS that was easy to update by administrators and staff using Python and Django.
+* Maintained firewalls and software updates to keep network and machines safe from intrusion.
